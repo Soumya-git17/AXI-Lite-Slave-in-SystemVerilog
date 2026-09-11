@@ -171,9 +171,6 @@ AXI-Lite-Slave-in-SystemVerilog/
 ├── tb/
 │   └── tb_axi_lite_slave.sv
 │
-├── waves/
-│   └── axi_lite.vcd
-│
 ├── Makefile
 │
 └── README.md
@@ -198,17 +195,6 @@ The testbench exercises the major AXI4-Lite behaviors, including:
 
 Simulation was performed using **Verilator**, with VCD waveform generation for signal-level debugging.
 
-### Example Simulation Flow
-
-```bash
-make
-```
-
-The generated waveform can be inspected using GTKWave.
-
-```bash
-gtkwave waves/axi_lite.vcd
-```
 
 ## Linting
 
@@ -238,7 +224,6 @@ Functional coverage will subsequently be used to measure whether important trans
 * Verilator
 * GTKWave
 * Make
-* Git / GitHub
 
 ## Learning Objectives
 
