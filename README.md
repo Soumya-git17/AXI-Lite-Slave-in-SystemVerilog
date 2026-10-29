@@ -1,6 +1,6 @@
-# ⚠️ THIS REPOSITORY IS DEPRECATED
-This project has been moved to my new repository: **[Link to New Repo](https://github.com/Soumya-git17/AXI4-Lite-Slave-RTL-and-UVM)**. 
-This repository is now read-only.
+### ⚠️ THIS REPOSITORY IS DEPRECATED
+>This project has been moved to my new repository: **[Link to New Repo](https://github.com/Soumya-git17/AXI4-Lite-Slave-RTL-and-UVM)**. 
+>This repository is now read-only.
 
 # AXI4-Lite Slave in SystemVerilog
 
